@@ -1,7 +1,9 @@
 # 윷판 한마당
 
 브라우저에서 바로 하는 윷놀이 게임입니다. 설치할 것은 없습니다.
+<img width="1892" height="1017" alt="image" src="https://github.com/user-attachments/assets/f8ba8c1c-5ec1-4e18-811d-a15203564e05" />
 ![Uploading image.png…]()
+
 
 ## 바로 실행 (더블클릭)
 - Windows: `start-windows.bat`
